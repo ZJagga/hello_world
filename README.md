@@ -1,4 +1,5 @@
 # hello_world
-Place for sharing New Ideas and Data Sources
+Place for Knowledge Sharing
 
-This readme is being editting to test for commit and pull request - Git Hub Guide
+
+
